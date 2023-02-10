@@ -1,4 +1,4 @@
-aimport React from 'react'
+import React from 'react'
 import Favorite from './Favorite'
 import NoFav from './NoFav'
 import HasFav from './HasFav'

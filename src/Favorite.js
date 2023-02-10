@@ -76,7 +76,7 @@ function Favorite() {
         }
     </div>
     <input type="submit" onclick={sendData} style={{backgroundColor:"blue", float:"right",margin:"20px",color:"white",borderRadius:"10px"}} />
-    <Link class="nav-link active" aria-current="page" to="/nofav">NoFav</Link>
+    {/* <Link class="nav-link active" aria-current="page" to="/nofav">NoFav</Link> */}
     </div>    
    
     </div>
